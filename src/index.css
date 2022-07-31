@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "CopperplateCC";
+    src: url("/fonts/CopperplateCC-Heavy.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "CopperplateCC";
+    src: url("/fonts/CopperplateCC-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Creato";
+    src: url("/fonts/creato-display.extrabolditalic.otf");
+    font-weight: bold;
+    font-style: italic;
+}
